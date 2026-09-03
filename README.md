@@ -1,4 +1,4 @@
-# GodotSignals for Unity
+# USignals
 
 A Godot-style signal system for Unity, with an editor dock that works like Godot's
 **Node ▸ Signals** panel: select a GameObject, see the signals its components declare,
