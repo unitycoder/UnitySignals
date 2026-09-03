@@ -6,9 +6,9 @@ double-click one, pick a receiver and a method, and the connection is saved in t
 
 ## Install
 
-Copy the `GodotSignals` folder into your project, e.g. `Assets/Plugins/GodotSignals`.
+Copy the `Plugins/USignals` folder into your project, e.g. `Assets/Plugins/USignals`.
 Two assembly definitions are included; `Assembly-CSharp` references them automatically,
-so your own scripts can use `using GodotSignals;` right away.
+so your own scripts can use `using USignals;` right away.
 
 Open the dock with **Window ▸ Signals** (or right-click any component header ▸ *Signals...*).
 Dock it next to the Inspector.
