@@ -123,3 +123,9 @@ component.GetSignal("HealthChanged").DisconnectAll();
 - Method stub generation matches braces textually; it does not parse braces inside
   comments or strings. It refuses to touch scripts outside `Assets/`.
 - Bind values support int, float, bool, string, `UnityEngine.Object`, Vector2, Vector3 and Color.
+
+### Images
+
+<img width="512" height="335" alt="image" src="https://github.com/user-attachments/assets/0de58752-10f6-4627-a7f5-e8bb59d4d371" />
+<img width="527" height="720" alt="image" src="https://github.com/user-attachments/assets/5fb51a33-1dda-4c29-88f0-80090d53faaa" />
+
