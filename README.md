@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/VibeCoded-100%25-green" alt="AI Generated Content"/>
+
 # USignals
 
 A Godot-style signal system for Unity, with an editor dock that works like Godot's
