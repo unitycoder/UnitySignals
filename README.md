@@ -130,4 +130,4 @@ component.GetSignal("HealthChanged").DisconnectAll();
 
 <img width="512" height="335" alt="image" src="https://github.com/user-attachments/assets/0de58752-10f6-4627-a7f5-e8bb59d4d371" />
 <img width="527" height="720" alt="image" src="https://github.com/user-attachments/assets/5fb51a33-1dda-4c29-88f0-80090d53faaa" />
-
+<img width="498" height="187" alt="image" src="https://github.com/user-attachments/assets/b5d2d944-2667-473c-8792-3765a6214242" />
