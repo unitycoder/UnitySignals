@@ -2,7 +2,7 @@
 
 # USignals
 
-A Godot-style signal system for Unity, with an editor dock that works like Godot's
+Sonnet 5 one-shot. A Godot-style signal system for Unity, with an editor dock that works like Godot's
 **Node ▸ Signals** panel: select a GameObject, see the signals its components declare,
 double-click one, pick a receiver and a method, and the connection is saved in the scene.
 
